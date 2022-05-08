@@ -1,0 +1,5 @@
+﻿  mendel.c
+D:\VS Studio Resouces\repos\BigProject\BigProject\mendel.c(133,21): warning C4101: “hide_input”: 未引用的局部变量
+D:\VS Studio Resouces\repos\BigProject\BigProject\mendel.c(133,33): warning C4101: “show_input”: 未引用的局部变量
+D:\VS Studio Resouces\repos\BigProject\BigProject\mendel.c(193,11): warning C4098: “population_calculating”:“void”函数返回值
+  BigProject.vcxproj -> D:\VS Studio Resouces\repos\BigProject\x64\Debug\BigProject.exe
